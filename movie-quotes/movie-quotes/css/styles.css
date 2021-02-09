@@ -1,0 +1,30 @@
+h1 {
+    font-family: courier;
+    font-size: 28pt;
+    color: rgb(255, 173, 173);
+  }
+  
+  h2 {
+    font-family: courier;
+    font-size: 18pt;
+    color: rgb(219, 204, 255);
+  }
+
+  body {
+    font-family: courier;
+    font-size: 12pt;
+    background-color: rgb(12, 12, 68);
+
+  }
+  
+  .p1 {
+    color: rgb(204, 255, 255);
+  }
+  
+  .p2 {
+    color: rgb(205, 243, 174);
+  }
+  
+  .p3 {
+    color: rgb(255, 234, 164);
+  }
