@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 96pt;
+    font-weight: 1000 ;
+    line-height: 1.2;
+    color: rgba(124, 221, 250, 0.644);
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+  h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 48pt;
+    font-weight: 800;
+    line-height: .6;
+    color: rgba(253, 108, 229, 0.712);
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  body {
+    background-image: url("space.jpg");
+    background-size: cover; 
+    text-align: center;
+
+  }
+
+    p {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 18pt;
+    color:white;
+    font-style: italic;
+    text-transform: lowercase;
+    text-align: center;
+    font-weight: 700;
+    }
